@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Srinjon Sadhukhan
 - 👀 I’m interested to do a job in product based software company.
 - 🌱 I’m currently learning c++,React JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me srinjonsadhukhan9163@gmail.com
 
 <!---
 srinjon/srinjon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
