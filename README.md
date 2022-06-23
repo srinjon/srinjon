@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Srinjon Sadhukhan
 - 👀 I’m interested to do a job in product based software company.
-- 🌱 I’m currently learning c++,React JS,golang
+- 🌱 I’m currently learning C++,HTML,CSS,JS,ReactJS,NodeJS,MongoDB,
 - 📫 How to reach me srinjonsadhukhan9163@gmail.com
 
 <!---
